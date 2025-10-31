@@ -138,25 +138,27 @@ Granger_Analytics/
   sales_performance.pbix
 ```
 3. Update the ODBC connection if needed:
-    System DSN: Granger_Analytics_DB
-    Database path: C:\Users\HP\Granger_Analytics_DB.db
+
+- System DSN: Granger_Analytics_DB
+- Database path: C:\Users\HP\Granger_Analytics_DB.db
 
 4. Refresh the dataset and explore the visuals interactively
 
 ---
 
-**💡 Future Improvements**
-Automate data refresh using Power BI Gateway.
+*💡 Future Improvements*
 
-Add Customer Lifetime Value (CLV) and churn metrics.
+- Automate data refresh using Power BI Gateway.
 
-Integrate Python scripts for forecasting and trend smoothing.
+- Add Customer Lifetime Value (CLV) and churn metrics.
+
+- Integrate Python scripts for forecasting and trend smoothing.
 
 ---
 
 🏁 Outcome
 
-This project demonstrates my capability in business intelligence storytelling — connecting raw databases, modeling relationships, building analytical measures, and delivering interactive dashboards.
+This project demonstrates capability in business intelligence storytelling — connecting raw databases, modeling relationships, building analytical measures, and delivering interactive dashboards.
 It bridges technical fluency with executive clarity, aligned with Business Analyst and BI Developer roles.
 
 © 2025 — Chiedozie Chigboh | Business Analytics & AI Portfolio
