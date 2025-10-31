@@ -139,8 +139,8 @@ Granger_Analytics/
 ```
 3. Update the ODBC connection if needed:
 
-- System DSN: Granger_Analytics_DB
-- Database path: C:\Users\HP\Granger_Analytics_DB.db
+  - System DSN: Granger_Analytics_DB
+  - Database path: C:\Users\HP\Granger_Analytics_DB.db
 
 4. Refresh the dataset and explore the visuals interactively
 
